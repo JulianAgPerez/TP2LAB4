@@ -6,7 +6,7 @@
 **IMPORTANTE**
 Para el correcto funcionamiento se debe crear un archivo config.properties con el siguiente cuerpo
 
-\# Configuración de conexión a la base de datos \\
+\# Configuración de conexión a la base de datos  
 db.url=  
 db.username=  
 db.password=  
